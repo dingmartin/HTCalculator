@@ -1,5 +1,5 @@
 
-This program is a simple .Net implementation for head tail breaks applying on single data array, based on the follwing papers:
+This program (download <a rel="nofollow" target="_blank" href="https://www.dropbox.com/s/x30cyyf8u7gsidn/HeadTailBreak.rar"> <i>here</i></a></font></font>) is a simple .Net implementation for head tail breaks applying on single data array, based on the follwing papers:
 
 
 <i>Jiang B. (2013), Head/tail breaks: A new classification scheme for data with a heavy-tailed distribution, The Professional Geographer, 65 (3), 482–494.</i>
@@ -7,6 +7,8 @@ This program is a simple .Net implementation for head tail breaks applying on si
 <i>Jiang B. and Yin J. (2014), "Ht-index for quantifying the fractal or scaling structure of geographic features", Annals of the Association of American Geographers, 104(3), 530–541. </i>
 
 Wiki page: <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki/Head/tail_Breaks"> <i>https://en.wikipedia.org/wiki/Head/tail_Breaks</i></a></font></font>
+
+
 
 <b>How to do:</b>
 
