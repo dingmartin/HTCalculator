@@ -15,3 +15,15 @@ Wiki page: <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki
 The input data array should be in same format as one column in excel and only number included. Copy the column to the indicated box or create a .txt file (or other formats which can also be opened with .txt) of this column and then drag and drop the file in the input field. Set the division rule and then click Go. The result will be shown and also be copied in the clipboard automatically, which you can copy back in the excel sheet.
 
 Note that if there are more than 3000 numbers, using file as input instead of copying the column to the textbox.   
+
+And please make sure that there is no space as the example shows below. 
+
+Wrong: A1     Correct : A1
+       A2               A2
+       A3               A3
+       .                . 
+       .                .
+       .                .             
+       A8               A8
+       Space            End
+       End
