@@ -16,14 +16,4 @@ The input data array should be in same format as one column in excel and only nu
 
 Note that if there are more than 3000 numbers, using file as input instead of copying the column to the textbox.   
 
-And please make sure that there is no space as the example shows below. 
-
-Wrong: A1     Correct : A1
-       A2               A2
-       A3               A3
-       .                . 
-       .                .
-       .                .             
-       A8               A8
-       Space            End
-       End
+And please make sure that do NOT make space as the last row. 
