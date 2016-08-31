@@ -12,7 +12,7 @@ Wiki page: <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki
 
 <b>How to do:</b>
 
-The input data array should be in same format as one column in excel. Copy the column to the indicated box or create a .txt file (or other formats which can also be opened with .txt) of this column and then drag and drop the file in the input field. Set the division rule and then click Go. The result will be shown and also be copied in the clipboard automatically, which you can copy back in the excel sheet.
+The input data array should be in same format as one column in excel. Copy the column to the indicated box or create a .txt file (or other formats which can also be opened with .txt) of this column and then drag and drop the file in the input field. Set the division rule and then click Go. The result will show up and also be copied in the clipboard automatically, which you can paste back in the excel sheet.
 
 Note that if there are more than 3000 numbers, using file as input instead of copying the column to the textbox.   
 
