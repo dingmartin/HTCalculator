@@ -12,6 +12,6 @@ Wiki page: <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki
 
 <b>How to do:</b>
 
-The input data array should be in same format as one column in excel. Copy the column to the indicated box or create a .txt file (or other formats which can also be opened with .txt) of this column and then drag and drop the file in the input field. Set the division rule and then click Go. The result will show up and also be copied in the clipboard automatically, which you can paste back in the excel sheet.
+The input data array should be in same format as one column in excel. Copy and paste the column to the input box or create a .txt file (or other formats that can also be opened by notepad) of this column and drag and drop the file in the input field. Set the division rule and click Go. The result will show up and also be copied in the clipboard automatically, which you can paste back in the excel sheet.
 
 
